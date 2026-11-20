@@ -1,9 +1,7 @@
 
 # Global Superstore – Sales Performance Analysis
 
-## Internship
-Skill Nexis – Data Science Internship
-Week 1: Excel & Data Fundamentals
+ Excel & Data Fundamentals
 
 ## Project Overview
 This project analyzes the Global Superstore dataset using Microsoft Excel. The objective is to clean the data, perform statistical analysis, summarize sales performance, and create a sales dashboard.
@@ -50,4 +48,4 @@ The dashboard includes:
 The provided dataset does not contain a Department column. Product Sub-Category was used as a detailed revenue breakdown instead.
 
 ## Project Output
-Week_01_Global_Superstore_Analysis.xlsx
+Global_Superstore_Analysis.xlsx
